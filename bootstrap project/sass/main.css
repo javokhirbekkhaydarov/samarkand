@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 1rem auto;
+}
+.card div {
+  border: 1px solid #909090;
+  text-align: center;
+}
+
+.card-1 {
+  width: 8.33333333%;
+}
+
+.card-2 {
+  width: 16.6666667%;
+}
+
+.card-3 {
+  width: 25%;
+}
+
+.card-4 {
+  width: 33.3333333%;
+}
+
+.card-5 {
+  width: 41.6666667%;
+}
+
+.card-6 {
+  width: 50%;
+}
+
+.card-7 {
+  width: 58.3333335%;
+}
+
+.card-8 {
+  width: 66.6666667%;
+}
+
+.card-9 {
+  width: 75%;
+}
+
+.card-10 {
+  width: 83.3333333%;
+}
+
+.card-11 {
+  width: 91.6666667%;
+}
+
+.card-12 {
+  width: 100%;
+}/*# sourceMappingURL=main.css.map */

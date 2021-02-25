@@ -1,0 +1,60 @@
+// *{
+//     margin: 0;
+//     padding: 0;
+//     box-sizing: border-box;
+// }
+// .container {
+//     width: 1200px;
+//     margin: 0 auto;
+//     // letter-spacing: 3px;
+//     font-family: Estrangelo Edessa;
+//     font-size:20px;
+//     filter: brightness(95%);
+// }
+    
+//     @mixin  list-group-item ($hover, $bg-color) {
+//         &:hover {
+//             background-color: $hover;
+//             color:#fff;
+//         }
+//         &:active {
+//             background-color: $bg-color;
+//         }
+//         &:focus {
+//             box-shadow: 0 0 0 2px #eeeeee;
+//             outline: none;
+//             border-radius: 5px;
+//         }
+//     }
+     
+//         .list-group-item{
+
+//             &.list-group-item-primary {
+//                 // color: #fff;
+//                 @include list-group-item(#5e86ff, #0c47f7);
+//               }
+//               &.list-group-item-success {
+//                 // color: #fff;
+//                 @include list-group-item(#5efac6, #0aad77);
+//               }
+//               &.list-group-item-warning {
+//                 // color: #fff;
+                
+//                 @include list-group-item(#ecbe60, #d18d04);
+//               }
+//               &.list-group-item-danger {
+//                 // color: #fff;
+//                 @include list-group-item(#f57698, #f0154f);
+//               }
+//               &.list-group-item-info {
+                
+//                 // color: #fff;
+//                 @include list-group-item(#4db0f7, #0c7fd1);
+//               }
+//         }
+    
+     
+
+
+
+
